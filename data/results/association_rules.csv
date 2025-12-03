@@ -1,0 +1,240 @@
+antecedent,consequent,support,confidence,lift
+"Papas fritas"", Azucar","Cafe, Cerveza",0.056,0.4,4.4944
+"Cafe, Cerveza","Papas fritas"", Azucar",0.056,0.6292,4.4944
+"Pasta, Papas fritas""","Salsa de Tomate, Cerveza",0.057,0.6196,4.4573
+"Salsa de Tomate, Cerveza","Pasta, Papas fritas""",0.057,0.4101,4.4573
+"Salsa de Tomate, Papas fritas""","Pasta, Cerveza",0.057,0.3677,4.4306
+"Pasta, Cerveza","Salsa de Tomate, Papas fritas""",0.057,0.6867,4.4306
+"Papas fritas"", Cafe","Azucar, Cerveza",0.056,0.5333,4.4077
+"Azucar, Cerveza","Papas fritas"", Cafe",0.056,0.4628,4.4077
+"""Platanos",Chocolate,0.068,0.3542,3.8919
+Chocolate,"""Platanos",0.068,0.7473,3.8919
+"Panales, Cafe",Azucar,0.054,0.8852,3.2666
+Mantequilla,"Pan, Papas fritas""",0.059,0.3073,3.2346
+"Pan, Papas fritas""",Mantequilla,0.059,0.6211,3.2346
+Cafe,"Papas fritas"", Azucar",0.083,0.4439,3.1704
+"Papas fritas"", Azucar",Cafe,0.083,0.5929,3.1704
+"Panales, Papas fritas""","Azucar, Cerveza",0.051,0.3835,3.1691
+"Azucar, Cerveza","Panales, Papas fritas""",0.051,0.4215,3.1691
+"Panales, Azucar",Cafe,0.054,0.587,3.1388
+"Pasta, Papas fritas"", Cerveza",Salsa de Tomate,0.057,0.8906,3.125
+"Pasta, Cerveza",Salsa de Tomate,0.073,0.8795,3.086
+"Papas fritas"", Azucar, Cerveza",Cafe,0.056,0.5714,3.0558
+"Pasta, Papas fritas""",Salsa de Tomate,0.08,0.8696,3.0511
+"Salsa de Tomate, Cafe",Azucar,0.062,0.8267,3.0504
+Cafe,"Azucar, Cerveza",0.069,0.369,3.0495
+"Azucar, Cerveza",Cafe,0.069,0.5702,3.0495
+Cerveza,"Panales, Papas fritas""",0.116,0.4042,3.039
+"Panales, Papas fritas""",Cerveza,0.116,0.8722,3.039
+"Panales, Salsa de Tomate, Papas fritas""",Cerveza,0.05,0.8621,3.0037
+Azucar,"Papas fritas"", Cafe",0.083,0.3063,2.9169
+"Papas fritas"", Cafe",Azucar,0.083,0.7905,2.9169
+"Pasta, Azucar",Salsa de Tomate,0.059,0.831,2.9157
+"Panales, Papas fritas"", Azucar",Cerveza,0.051,0.8361,2.9131
+"Cafe, Cerveza",Azucar,0.069,0.7753,2.8608
+"Papas fritas"", Cafe, Cerveza",Azucar,0.056,0.7671,2.8307
+Pasta,"Salsa de Tomate, Cerveza",0.073,0.3883,2.7935
+"Salsa de Tomate, Cerveza",Pasta,0.073,0.5252,2.7935
+"Manzanas, Cerveza","Papas fritas""",0.064,0.9697,2.7627
+Azucar,Cafe,0.14,0.5166,2.7626
+Cafe,Azucar,0.14,0.7487,2.7626
+Pasta,Salsa de Tomate,0.148,0.7872,2.7622
+Salsa de Tomate,Pasta,0.148,0.5193,2.7622
+Pasta,"Salsa de Tomate, Papas fritas""",0.08,0.4255,2.7454
+"Salsa de Tomate, Papas fritas""",Pasta,0.08,0.5161,2.7454
+Pan,"Mantequilla, Papas fritas""",0.059,0.3089,2.7336
+"Mantequilla, Papas fritas""",Pan,0.059,0.5221,2.7336
+"Panales, Papas fritas""","Salsa de Tomate, Cerveza",0.05,0.3759,2.7046
+"Salsa de Tomate, Cerveza","Panales, Papas fritas""",0.05,0.3597,2.7046
+Cafe,"Salsa de Tomate, Azucar",0.062,0.3316,2.6955
+"Salsa de Tomate, Azucar",Cafe,0.062,0.5041,2.6955
+Pasta,"Salsa de Tomate, Papas fritas"", Cerveza",0.057,0.3032,2.6831
+"Salsa de Tomate, Papas fritas"", Cerveza",Pasta,0.057,0.5044,2.6831
+"Huevos, Cerveza","Papas fritas""",0.052,0.9286,2.6455
+"Panales, Salsa de Tomate","Papas fritas"", Cerveza",0.05,0.6098,2.5947
+"Panales, Cerveza","Papas fritas"", Azucar",0.051,0.3617,2.5836
+"Papas fritas"", Azucar","Panales, Cerveza",0.051,0.3643,2.5836
+Papel Higienico,"""Chocolate",0.057,0.5229,2.5634
+Pasta,"Salsa de Tomate, Azucar",0.059,0.3138,2.5515
+"Salsa de Tomate, Azucar",Pasta,0.059,0.4797,2.5515
+Cerveza,"Salsa de Tomate, Papas fritas""",0.113,0.3937,2.5402
+"Salsa de Tomate, Papas fritas""",Cerveza,0.113,0.729,2.5402
+"Mantequilla, Cerveza","Papas fritas""",0.081,0.8901,2.5359
+Panales,"Azucar, Cerveza",0.065,0.3066,2.5339
+"Azucar, Cerveza",Panales,0.065,0.5372,2.5339
+"""Chocolate",Leche,0.1,0.4902,2.5138
+Leche,"""Chocolate",0.1,0.5128,2.5138
+"Detergente, Cerveza","Papas fritas""",0.067,0.8816,2.5116
+Pan,Mantequilla,0.092,0.4817,2.5087
+Mantequilla,Pan,0.092,0.4792,2.5087
+"Panales, Salsa de Tomate",Cerveza,0.059,0.7195,2.507
+"""Chocolate, Papas fritas""",Cerveza,0.066,0.7174,2.4996
+"Papas fritas"", Mantequilla",Cerveza,0.081,0.7168,2.4976
+"Salsa de Tomate, Papas fritas"", Pasta",Cerveza,0.057,0.7125,2.4826
+"Panales, Azucar",Cerveza,0.065,0.7065,2.4617
+"Yogur, Papas fritas""",Cerveza,0.067,0.7053,2.4574
+"Papas fritas"", Azucar, Cerveza",Panales,0.051,0.5204,2.4548
+"Papas fritas"", Leche",Cerveza,0.063,0.7,2.439
+Cerveza,"Papas fritas"", Azucar",0.098,0.3415,2.439
+"Papas fritas"", Azucar",Cerveza,0.098,0.7,2.439
+"Pasta, Papas fritas""",Cerveza,0.064,0.6957,2.4239
+"Papas fritas"", Cafe",Cerveza,0.073,0.6952,2.4224
+"Pan, Papas fritas""",Cerveza,0.066,0.6947,2.4207
+"Panales, Salsa de Tomate, Cerveza","Papas fritas""",0.05,0.8475,2.4144
+"Leche, Cerveza","Papas fritas""",0.063,0.84,2.3932
+"Yogur, Cerveza","Papas fritas""",0.067,0.8375,2.386
+"""Chocolate, Cerveza","Papas fritas""",0.066,0.8354,2.3802
+"Papas fritas"", Cebolla",Cerveza,0.06,0.6818,2.3757
+"Cebolla, Cerveza","Papas fritas""",0.06,0.8333,2.3742
+"Papas fritas"", Manzanas",Cerveza,0.064,0.6809,2.3723
+Huevos,"Papas fritas""",0.079,0.8316,2.3692
+"Panales, Azucar","Papas fritas"", Cerveza",0.051,0.5543,2.3589
+"Cafe, Papas fritas"", Azucar",Cerveza,0.056,0.6747,2.3509
+"Papas fritas""","Panales, Cerveza",0.116,0.3305,2.3439
+"Panales, Cerveza","Papas fritas""",0.116,0.8227,2.3439
+"Cafe, Cerveza","Papas fritas""",0.073,0.8202,2.3368
+"Papas fritas""",Cerveza,0.235,0.6695,2.3328
+Cerveza,"Papas fritas""",0.235,0.8188,2.3328
+Huevos,"Papas fritas"", Cerveza",0.052,0.5474,2.3292
+Panales,"Papas fritas"", Cerveza",0.116,0.5472,2.3284
+"Papas fritas"", Cerveza",Panales,0.116,0.4936,2.3284
+Panales,Cerveza,0.141,0.6651,2.3174
+Cerveza,Panales,0.141,0.4913,2.3174
+"""Platanos, Cerveza","Papas fritas""",0.061,0.8133,2.3172
+"Papas fritas""","Salsa de Tomate, Cerveza",0.113,0.3219,2.3161
+"Salsa de Tomate, Cerveza","Papas fritas""",0.113,0.8129,2.3161
+"Cafe, Azucar, Cerveza","Papas fritas""",0.056,0.8116,2.3122
+"""Platanos, Papas fritas""",Cerveza,0.061,0.663,2.3103
+Manzanas,"Papas fritas"", Cerveza",0.064,0.5424,2.308
+"Azucar, Cerveza","Papas fritas""",0.098,0.8099,2.3075
+"Huevos, Papas fritas""",Cerveza,0.052,0.6582,2.2935
+"Detergente, Papas fritas""",Cerveza,0.067,0.6569,2.2887
+"Panales, Cerveza","Salsa de Tomate, Papas fritas""",0.05,0.3546,2.2878
+"Salsa de Tomate, Papas fritas""","Panales, Cerveza",0.05,0.3226,2.2878
+Manzanas,"Papas fritas""",0.094,0.7966,2.2695
+"Pan, Cerveza","Papas fritas""",0.066,0.7952,2.2655
+"Panales, Azucar, Cerveza","Papas fritas""",0.051,0.7846,2.2354
+"Pasta, Salsa de Tomate, Cerveza","Papas fritas""",0.057,0.7808,2.2246
+"Pasta, Cerveza","Papas fritas""",0.064,0.7711,2.1968
+Refresco,"""Chocolate",0.053,0.438,2.1471
+"Salsa de Tomate, Papas fritas"", Cerveza",Panales,0.05,0.4425,2.0872
+"Papas fritas"", Azucar",Panales,0.061,0.4357,2.0553
+Huevos,Cerveza,0.056,0.5895,2.0539
+"Panales, Salsa de Tomate","Papas fritas""",0.058,0.7073,2.0151
+"Salsa de Tomate, Cerveza",Panales,0.059,0.4245,2.0022
+Mantequilla,Cebolla,0.069,0.3594,1.9855
+Cebolla,Mantequilla,0.069,0.3812,1.9855
+Manzanas,Cerveza,0.066,0.5593,1.9489
+"Panales, Azucar","Papas fritas""",0.061,0.663,1.889
+"Yogur, Papas fritas""",Salsa de Tomate,0.05,0.5263,1.8467
+"Pan, Mantequilla","Papas fritas""",0.059,0.6413,1.8271
+"Cafe, Azucar",Panales,0.054,0.3857,1.8194
+Mantequilla,"Papas fritas"", Cerveza",0.081,0.4219,1.7952
+"Papas fritas"", Cerveza",Mantequilla,0.081,0.3447,1.7952
+Panales,"Papas fritas""",0.133,0.6274,1.7873
+"Papas fritas""",Panales,0.133,0.3789,1.7873
+Detergente,"Papas fritas""",0.102,0.622,1.7719
+"Salsa de Tomate, Papas fritas""",Panales,0.058,0.3742,1.7651
+Detergente,"Papas fritas"", Cerveza",0.067,0.4085,1.7385
+"Pasta, Salsa de Tomate",Cerveza,0.073,0.4932,1.7186
+"Cafe, Azucar",Cerveza,0.069,0.4929,1.7173
+Queso,"""Chocolate",0.05,0.3497,1.714
+Pan,Cebolla,0.059,0.3089,1.7066
+Cebolla,Pan,0.059,0.326,1.7066
+"Cafe, Azucar","Papas fritas"", Cerveza",0.056,0.4,1.7021
+"Panales, Cerveza",Azucar,0.065,0.461,1.7011
+Salsa de Tomate,Cerveza,0.139,0.4877,1.6994
+Cerveza,Salsa de Tomate,0.139,0.4843,1.6994
+"Salsa de Tomate, Papas fritas""",Yogur,0.05,0.3226,1.6978
+"Yogur, Salsa de Tomate","Papas fritas""",0.05,0.5952,1.6958
+"Panales, Papas fritas""",Azucar,0.061,0.4586,1.6924
+"Cafe, Azucar","Papas fritas""",0.083,0.5929,1.6891
+Salsa de Tomate,"Papas fritas"", Cerveza",0.113,0.3965,1.6872
+"Papas fritas"", Cerveza",Salsa de Tomate,0.113,0.4809,1.6872
+"Azucar, Cerveza",Salsa de Tomate,0.058,0.4793,1.6819
+"Papas fritas""",Mantequilla,0.113,0.3219,1.6768
+Mantequilla,"Papas fritas""",0.113,0.5885,1.6768
+Cafe,"Papas fritas"", Cerveza",0.073,0.3904,1.6612
+"Papas fritas"", Cerveza",Cafe,0.073,0.3106,1.6612
+Cafe,Cerveza,0.089,0.4759,1.6583
+Cerveza,Cafe,0.089,0.3101,1.6583
+Mantequilla,Cerveza,0.091,0.474,1.6514
+Cerveza,Mantequilla,0.091,0.3171,1.6514
+"Salsa de Tomate, Azucar",Cerveza,0.058,0.4715,1.643
+"Pasta, Salsa de Tomate","Papas fritas"", Cerveza",0.057,0.3851,1.6389
+"Panales, Papas fritas"", Cerveza",Azucar,0.051,0.4397,1.6223
+Detergente,Cerveza,0.076,0.4634,1.6147
+Panales,Azucar,0.092,0.434,1.6013
+Azucar,Panales,0.092,0.3395,1.6013
+Cafe,"Papas fritas""",0.105,0.5615,1.5997
+Salsa de Tomate,Azucar,0.123,0.4316,1.5925
+Azucar,Salsa de Tomate,0.123,0.4539,1.5925
+"""Chocolate",Mantequilla,0.062,0.3039,1.5829
+Mantequilla,"""Chocolate",0.062,0.3229,1.5829
+"Papas fritas"", Azucar",Salsa de Tomate,0.063,0.45,1.5789
+Azucar,Cerveza,0.121,0.4465,1.5557
+Cerveza,Azucar,0.121,0.4216,1.5557
+"Cafe, Azucar",Salsa de Tomate,0.062,0.4429,1.5539
+Yogur,Salsa de Tomate,0.084,0.4421,1.5512
+Salsa de Tomate,"Papas fritas""",0.155,0.5439,1.5495
+"Papas fritas""",Salsa de Tomate,0.155,0.4416,1.5495
+"Pasta, Salsa de Tomate","Papas fritas""",0.08,0.5405,1.54
+"Salsa de Tomate, Cerveza",Azucar,0.058,0.4173,1.5397
+Azucar,"Papas fritas"", Cerveza",0.098,0.3616,1.5388
+"Papas fritas"", Cerveza",Azucar,0.098,0.417,1.5388
+Cafe,Panales,0.061,0.3262,1.5387
+Pasta,Cerveza,0.083,0.4415,1.5383
+"Panales, Papas fritas""",Salsa de Tomate,0.058,0.4361,1.5301
+Refresco,Cerveza,0.053,0.438,1.5262
+Pan,Cerveza,0.083,0.4346,1.5141
+"Panales, Papas fritas"", Cerveza",Salsa de Tomate,0.05,0.431,1.5124
+Yogur,"Papas fritas"", Cerveza",0.067,0.3526,1.5006
+"Salsa de Tomate, Papas fritas""",Azucar,0.063,0.4065,1.4998
+"""Platanos",Salsa de Tomate,0.082,0.4271,1.4985
+"""Platanos",Azucar,0.077,0.401,1.4799
+Refresco,Salsa de Tomate,0.051,0.4215,1.4789
+Queso,Salsa de Tomate,0.06,0.4196,1.4722
+"Papas fritas""",Azucar,0.14,0.3989,1.4718
+Azucar,"Papas fritas""",0.14,0.5166,1.4718
+"Pasta, Salsa de Tomate",Azucar,0.059,0.3986,1.471
+Pan,"Papas fritas"", Cerveza",0.066,0.3455,1.4704
+"Panales, Cerveza",Salsa de Tomate,0.059,0.4184,1.4682
+Yogur,Cerveza,0.08,0.4211,1.4671
+Queso,Cerveza,0.06,0.4196,1.462
+"Salsa de Tomate, Azucar","Papas fritas""",0.063,0.5122,1.4592
+Cebolla,Salsa de Tomate,0.075,0.4144,1.4539
+Pasta,"Papas fritas"", Cerveza",0.064,0.3404,1.4486
+Detergente,Salsa de Tomate,0.067,0.4085,1.4335
+Yogur,"Papas fritas""",0.095,0.5,1.4245
+Pan,"Papas fritas""",0.095,0.4974,1.417
+Yogur,Panales,0.057,0.3,1.4151
+Cebolla,"Papas fritas"", Cerveza",0.06,0.3315,1.4106
+Cafe,Salsa de Tomate,0.075,0.4011,1.4073
+Mantequilla,Azucar,0.073,0.3802,1.403
+Pan,Salsa de Tomate,0.076,0.3979,1.3962
+Pasta,"Papas fritas""",0.092,0.4894,1.3942
+Pasta,Azucar,0.071,0.3777,1.3936
+Cebolla,Cerveza,0.072,0.3978,1.386
+Cebolla,"Papas fritas""",0.088,0.4862,1.3852
+"""Chocolate","Papas fritas"", Cerveza",0.066,0.3235,1.3767
+Leche,"Papas fritas"", Cerveza",0.063,0.3231,1.3748
+Cebolla,Azucar,0.067,0.3702,1.3659
+"""Platanos","Papas fritas""",0.092,0.4792,1.3651
+"""Platanos",Cerveza,0.075,0.3906,1.3611
+Panales,Salsa de Tomate,0.082,0.3868,1.3572
+"""Chocolate",Azucar,0.075,0.3676,1.3566
+"""Platanos","Papas fritas"", Cerveza",0.061,0.3177,1.352
+"""Chocolate",Cerveza,0.079,0.3873,1.3493
+Yogur,Azucar,0.069,0.3632,1.3401
+Leche,Cerveza,0.075,0.3846,1.3401
+Mantequilla,Salsa de Tomate,0.072,0.375,1.3158
+Leche,"Papas fritas""",0.09,0.4615,1.3149
+Papel Higienico,"Papas fritas""",0.05,0.4587,1.3069
+Leche,Salsa de Tomate,0.072,0.3692,1.2955
+Queso,Azucar,0.05,0.3497,1.2902
+Leche,Azucar,0.068,0.3487,1.2868
+"""Chocolate","Papas fritas""",0.092,0.451,1.2848
+Refresco,"Papas fritas""",0.054,0.4463,1.2715
+Queso,"Papas fritas""",0.063,0.4406,1.2552
+"""Chocolate",Salsa de Tomate,0.072,0.3529,1.2384
+Detergente,Azucar,0.051,0.311,1.1475
